@@ -8,7 +8,7 @@ namespace BlogStore.EntityLayer.Entities
 {
     public class Article
     {
-        public int ArticalId { get; set; }
+        public int ArticleId { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
         public string ImageUrl { get; set; }
